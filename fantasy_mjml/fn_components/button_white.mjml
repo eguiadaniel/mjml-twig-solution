@@ -1,0 +1,26 @@
+<!-- BUTTON WHITE START -->
+
+    <mj-section
+      name="button"
+      padding="0px 0px 20px 0px"
+      background-color="#fff"
+    >
+      <mj-column css-class="content-padding">
+        <mj-button
+          mj-class="button-white"
+          css-class="box-shadow"
+          href="https://fantasynails.es/"
+          vertical-align="middle"
+          align="left"
+        >
+          BOTÓN BLANCO &#x25BA;
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      name="secondary"
+      padding="0px 0px 20px 0px"
+      background-color="#fff">    
+    </mj-section>
+
+  <!-- BUTTON WHITE END -->

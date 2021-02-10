@@ -1,0 +1,35 @@
+<!-- MENU START -->
+
+    <mj-section
+      name="menu"
+      background-color="#ffffff"
+      padding="0px 0px 0px 0px"
+      css-class="hide_on_mobile"
+    >
+      <mj-column padding="0px 0px 0px 0px">
+        <mj-navbar base-url="https://fantasynails.es/es/" ico-color="#000000">
+          <mj-navbar-link mj-class="navbar-text" href="69-esmaltes-permanentes"
+            >PERMANENTE</mj-navbar-link
+          >
+          <mj-navbar-link mj-class="navbar-text" href="3-acrilicos"
+            >ÁCRILICOS</mj-navbar-link
+          >
+          <mj-navbar-link mj-class="navbar-text" href="51-gel"
+            >GEL</mj-navbar-link
+          >
+          <mj-navbar-link mj-class="navbar-text" href="47-acrigel"
+            >ACRIGEL</mj-navbar-link
+          >
+          <mj-navbar-link mj-class="navbar-text" href="234-aerografo"
+            >AERÓGRAFO</mj-navbar-link
+          >
+          <mj-navbar-link
+            mj-class="navbar-text"
+            href="https://fantasynails.es/es/124-decoracion"
+            >DECO</mj-navbar-link
+          >
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+  <!-- MENU END -->

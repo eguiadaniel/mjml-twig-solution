@@ -1,0 +1,22 @@
+<!-- BUTTON CENTERED BLACK START -->
+
+ <mj-hero
+        mode="fixed-height"
+        height="0px"
+        background-width="600px"
+        background-height="469px"
+        background-color="#ffffff"
+        padding="0px 0px"        
+      >
+        <mj-button
+          mj-class="button-black"
+          css-class="button-black"
+          href="https://fantasynails.es/"
+          vertical-align="middle"
+          align="center"
+        >
+          BOTÓN NEGRO &#x25BA;
+        </mj-button>
+      </mj-hero>
+  
+  <!-- BUTTON CENTERED BLACK END -->

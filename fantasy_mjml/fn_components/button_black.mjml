@@ -1,0 +1,25 @@
+ <!-- BUTTON BLACK START -->
+
+    <mj-section
+      name="button"
+      padding="0px 0px 0px 0px"
+      background-color="#fff"
+    >
+      <mj-column css-class="">
+        <mj-button
+          mj-class="button-black"
+          css-class="button-black"
+          href="https://fantasynails.es/"
+          align="left"
+        >
+          BOTÓN NEGRO &#x25BA;
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      name="secondary"
+      padding="0px 0px 20px 0px"
+      background-color="#fff">    
+    </mj-section>
+
+  <!-- BUTTON BLACK END -->

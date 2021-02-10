@@ -1,0 +1,23 @@
+ <!-- VOUCHER WHITE START -->
+
+<mj-hero
+        mode="fixed-height"
+        height="0px"
+        background-width="600px"
+        background-height="469px"        
+        background-color="#EFEFEF"
+        padding="30px 0px" 
+        
+      >
+        <mj-button
+          mj-class="voucher-white"
+          href="https://fantasynails.es/"
+          vertical-align="middle"
+          align="center"
+        >
+          {voucher_num}
+        </mj-button>
+      </mj-hero>
+
+
+  <!-- VOUCHER WHITE END -->

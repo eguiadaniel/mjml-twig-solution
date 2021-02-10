@@ -1,0 +1,23 @@
+<!-- HERO BUTTON START -->
+
+      <mj-hero
+        mode="fixed-height"
+        height="0px"
+        background-width="600px"
+        background-height="469px"
+        background-url="https://fantasynails.es/fn_content/email_fn_ps/assets/hero/hero-placeholder_800x533.jpg"
+        background-color="#2a3448"
+        padding="125px 0px"        
+      >
+        <mj-button
+          mj-class="button-white"
+          css-class="box-shadow"
+          href="https://fantasynails.es/"
+          vertical-align="middle"
+          align="center"
+        >
+          VISITANOS &#x25BA;
+        </mj-button>
+      </mj-hero>
+    
+<!-- HERO BUTTON END -->

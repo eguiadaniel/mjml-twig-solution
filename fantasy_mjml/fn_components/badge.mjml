@@ -1,0 +1,36 @@
+<!-- BADGE START -->
+
+    <mj-section border="0px solid #000000" background-color="#fff" padding= "0px 0px">
+      <mj-column role="presentation" border="0" css-class="" padding= "0px 0px">
+        <mj-table>
+          <tr>
+            <td style="padding: 0 0 0 0; width: 54px">
+              <img
+                style="float: right; width: 54px; vertical-align: middle"
+                src="https://fantasynails.es/fn_content/email_fn_ps/assets/body/badge-michi.png"
+                alt="Michi-profile"
+                border="0"
+              />
+            </td>
+            <td
+              style="
+                padding: 0 0 0 10px;
+                font-family: arial;
+                font-weight: bold;
+                font-size: 17px;
+              "
+              border="0"
+            >
+              <p>
+                Michi C. Brink <br />
+                <span style="font-weight: lighter; font-size: 13px"
+                  >Founder & CEO</span
+                >
+              </p>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+<!-- BADGE END -->

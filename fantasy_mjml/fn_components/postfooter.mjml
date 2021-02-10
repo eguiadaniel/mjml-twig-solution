@@ -1,0 +1,63 @@
+    <!-- POST FOOTER START -->
+    
+    <mj-section padding="20px 0px 20px 0px">
+      <mj-column>
+        <mj-text mj-class="footer-text" css-class="footer-text center-text">
+          <p>
+            ¿Tienes cualquier duda?
+            <a
+              href="mailto:info@fantasynails.es"
+              style="color: #656565; font-weight: bold"
+              >Contacta con nosotros</a
+            >
+          </p>
+        </mj-text>
+        <mj-text mj-class="footer-text" css-class="footer-text center-text">
+          <p>
+            Si quieres dejar de recibir estos emails,
+            <a href="#" style="color: #656565; font-weight: bold"
+              >date de baja aquí</a
+            >
+          </p>
+        </mj-text>
+        <mj-text mj-class="footer-text" css-class="footer-text center-text">
+          <p>
+            <a
+              href="https://fantasynails.es/"
+              style="color: #656565; font-weight: bold"
+              >www.fantasynails.es</a
+            >
+            //
+            <a
+              href="mailto:info@fantasynails.es"
+              style="color: #656565; font-weight: bold"
+              >info@fantasynails.es</a
+            >
+          </p>
+        </mj-text>
+        <mj-image
+          css-class=""
+          src="https://fantasynails.es/fn_content/email_fn_ps/assets/footer/fantasy-grey.png"
+          alt="logo-fantasy"
+          align="center"
+          border="none"
+          width="50px"
+          padding-left="0px"
+          padding-right="10px"
+          padding-bottom="15px"
+          padding-top="15px"
+        ></mj-image>
+        <mj-text
+          padding="0px 40px"
+          mj-class="footer-text"
+          css-class="footer-text center-text"
+        >
+          <p>
+            Calle Pasaje Graham Bell, 10. 29590 Málaga<br />Parque Tecnológico
+            De Andalucia. <br />© 2020 Fantasy Nails Europe. Todos los derechos
+            reservados.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  <!-- POST FOOTER END -->

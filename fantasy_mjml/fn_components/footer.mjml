@@ -1,0 +1,68 @@
+    <!-- FOOTER START -->
+    <!-- SHOP & LOOKS -->
+
+    <mj-section padding="10px 0px 10px 0px" background-color="#000">
+      <mj-column padding="0px 0px 0px 0px" width="40%">
+        <mj-image
+          padding="0px 0px 0px 0px"
+          href="https://fantasynails.es/"
+          src="https://fantasynails.es/fn_content/email_fn_ps/assets/footer/footer-cta-tienda.jpg"
+          alt="Visita nuestra tienda"
+        ></mj-image>
+      </mj-column>
+      <mj-column padding="0px 0px 0px 0px" width="40%">
+        <mj-image
+          padding="0px 0px 0px 0px"
+          href="https://fantasynails.es/blog/looks"
+          src="https://fantasynails.es/fn_content/email_fn_ps/assets/footer/footer-cta-looks.jpg"
+          alt="Descubre nuevas tendencias"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- SOCIAL -->
+
+    <mj-section padding="0px 0px 10px 0px" background-color="#000">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="40px" mode="horizontal">
+          <mj-social-element
+            href="https://fantasynails.es/"
+            src="https://fantasynails.es/fn_content/email_fn_ps/assets/footer/fantasy.png"
+            alt="web"
+            background-color="#000"
+            href="https://mjml.io/"
+            icon-padding="7px"
+            border="0px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="facebook-noshare"
+            background-color="#000"
+            href="https://www.facebook.com/fantasynails.es/"
+            icon-padding="7px"
+            alt="facebook"
+            border="0"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="instagram-noshare"
+            background-color="#000"
+            href="https://www.instagram.com/fantasy_nails_europe/"
+            icon-padding="7px"
+            alt="instagram"
+            border="0"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="youtube-noshare"
+            background-color="#000"
+            href="https://www.youtube.com/channel/UCyqyeU5BqoUn_v6f1twAI8A"
+            icon-padding="7px"
+            alt="youtube"
+            border="0"
+          >
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+     <!-- FOOTER END -->

@@ -1,0 +1,45 @@
+<!-- PROMO START -->
+
+<mj-section padding="0px 0px 0px 0px">
+      <mj-group>
+        <mj-column padding="0px 0px 0px 0px">
+          <mj-image
+            padding="0px 0px 0px 0px"
+            href="https://fantasynails.es/es/69-esmaltes-permanentes"
+            src="https://fantasynails.es/fn_content/email_fn_ps/assets/promo/esmalte.jpg"
+            alt="Esmaltes"
+          ></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image
+            padding="0px 0px 0px 0px"
+            href="https://fantasynails.es/es/3-acrilicos"
+            src="https://fantasynails.es/fn_content/email_fn_ps/assets/promo/acrilico.jpg"
+            alt="Acrílico"
+          ></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>   
+
+    <mj-section padding="0px 0px 0px 0px">
+      <mj-group>
+        <mj-column padding="0px 0px 0px 0px">
+          <mj-image
+            padding="0px 0px 0px 0px"
+            href="https://fantasynails.es/es/47-acrigel"
+            src="https://fantasynails.es/fn_content/email_fn_ps/assets/promo/acrigel.jpg"
+            alt="Acrigel"
+          ></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image
+            padding="0px 0px 0px 0px"
+            href="https://fantasynails.es/es/51-gel"
+            src="https://fantasynails.es/fn_content/email_fn_ps/assets/promo/gel.jpg"
+            alt="Gel"
+          ></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- PROMO END -->

@@ -1,0 +1,19 @@
+<!-- SECONDARY MORE INFO START -->
+
+<mj-section name="secondary" padding="0px 0px 0px 0px" background-color="#fff">
+  <mj-column>
+      </mj-text>
+        <mj-text mj-class="secondary-text" css-class="content-padding">
+      
+      <p style="font-weight: bold">ℹ Más info</p>
+      <p>
+        • Localiza tu <a href="{followup}">envío</a>.<br />
+        • Revisa tu <a href="{history_url}">pedido</a>.<br />
+        • ¿Has comprado como invitado? Sigue tu pedido <a href="{guest_tracking_url}">desde aquí</a>.
+      </p>      
+    </mj-text>
+  </mj-column>
+</mj-section>
+<!-- SECONDARY MORE INFO END -->
+
+

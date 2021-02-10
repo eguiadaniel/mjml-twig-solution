@@ -1,0 +1,34 @@
+<!-- SECONDARY TEXT START -->
+<mj-section name="secondary" padding="0px 0px 20px 0px" background-color="#fff">
+  <mj-column>
+    <mj-text mj-class="secondary-text" css-class="content-padding">
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
+        interdum elementum ullamcorper. Duis et vehicula tellus. Vivamus arcu
+        velit, posuere sed convallis eu, correo electrónico:
+        <strong>{email}</strong>.
+      </p>
+    </mj-text>
+    <mj-text mj-class="secondary-text" css-class="content-padding">
+      <p style="font-weight: bold">
+        ✌ Algunos consejos para proteger tu cuenta
+      </p>
+      <p>
+        • No compartas tus datos de acceso con otras personas.<br />
+        • Cambia la contraseña con regularidad.<br />
+        • Si tienes sospechas de un uso ilegal de tu cuenta, ponte en contacto
+        con nosotros <a href="fantasynails.es/contacto"> aquí</a> lo antes
+        posible.
+      </p>
+      <p>¡Nos vemos pronto!</p>
+    </mj-text>    
+    <mj-text mj-class="secondary-text" css-class="content-padding">
+      <p style="font-weight: bold">⚠ ¡Muy importante!</p>
+      <p>
+        Añade el número de referencia de tu pedido
+        <strong>{order_name}</strong> en los detalles de la transferencia ;)
+      </p>
+    </mj-text>   
+  </mj-column>
+</mj-section>
+<!-- SECONDARY TEXT END -->

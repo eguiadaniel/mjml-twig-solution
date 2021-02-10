@@ -1,0 +1,15 @@
+  <!-- HERO IMAGE START -->
+
+        <mj-hero
+        mode="fixed-height"
+        height="0px"
+        background-width="600px"
+        background-height="469px"
+        background-url="https://fantasynails.es/fn_content/email_fn_ps/assets/hero/hero-placeholder_800x533.jpg"
+        background-color="#2a3448"
+        padding="160px 0px"        
+      >
+        
+      </mj-hero>
+
+  <!-- HERO IMAGE END -->

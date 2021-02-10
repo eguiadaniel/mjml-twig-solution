@@ -1,0 +1,30 @@
+<!-- SECONDARY SHIPMENT START -->
+
+<mj-section name="secondary" padding="0px 0px 0px 0px" background-color="#fff">
+  <mj-column>
+      </mj-text>
+        <mj-text mj-class="secondary-text" css-class="content-padding">
+      <p style="font-weight: bold">🚚 Información del envío</p>
+      <p>
+        • Transportista: {carrier}<br>
+        • Localiza el envío: <a href="{followup}">{followup}</a>.
+      </p><br>
+      <p style="font-weight: bold">🏠 Dirección de entrega</p>
+      <p>
+        {delivery_block_html}<br>
+        </p><br>
+      <p style="font-weight: bold">📝 Dirección de facturación</p>
+      <p>
+        {invoice_block_html}<br>
+        </p><br>
+
+      <p style="font-weight: bold">ℹ Más info</p>
+      <p>
+        • Revisa <a href="{order_history}">tu pedido</a>.<br />
+        • ¿Has comprado como invitado? Sigue tu pedido <a href="{seguimiento de invitado}">desde aquí</a>.
+      </p>      
+    </mj-text>
+  </mj-column>
+</mj-section>
+<!-- SECONDARY SHIPMENT END -->
+

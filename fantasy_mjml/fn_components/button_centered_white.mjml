@@ -1,0 +1,22 @@
+<!-- BUTTON CENTERED WHITE START -->
+
+ <mj-hero
+        mode="fixed-height"
+        height="0px"
+        background-width="600px"
+        background-height="469px"
+        background-color="#ffffff"
+        padding="0px 0px"        
+      >
+        <mj-button
+          mj-class="button-white"
+          css-class="box-shadow"
+          href="https://fantasynails.es/"
+          vertical-align="middle"
+          align="center"
+        >
+          VISITANOS &#x25BA;
+        </mj-button>
+      </mj-hero>
+
+<!-- BUTTON CENTERED WHITE END-->

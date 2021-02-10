@@ -1,0 +1,18 @@
+<!-- SECONDARY ORDER DETAILS START -->
+
+<mj-section name="secondary-detalles-pedido" padding="0px 0px 10px 0px" background-color="#fff">
+  <mj-column>
+  <mj-text mj-class="secondary-text" css-class="content-padding">
+      <p style="font-weight: bold">📦 Detalles de tu pedido:</p>
+      <p>
+        • ID Pedido {order_name}<br>
+        • Fecha: {date}<br>
+        • Importe: {total_paid} •<br>
+        • Pago: {payment}
+      </p>
+    </mj-text>
+</mj-column>
+</mj-section>
+
+<!-- SECONDARY ORDER DETAILS END -->
+

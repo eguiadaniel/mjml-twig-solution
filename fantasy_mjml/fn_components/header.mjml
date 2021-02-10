@@ -1,0 +1,10 @@
+    <!-- HEADER START -->
+    <mj-section padding="20px 0px 20px 0px" background-color="#fff">
+      <mj-column>
+        <mj-image
+          width="232px"
+          src="https://fantasynails.es/fn_content/email_fn_ps/assets/header/logo-header.png"
+        ></mj-image>
+      </mj-column>
+    </mj-section>    
+    <!-- HEADER END -->
