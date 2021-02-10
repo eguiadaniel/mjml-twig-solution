@@ -7,11 +7,11 @@ var path = require("path");
 var app = express();
 
 app.get("/:template?/:dataid?", function(req, res) {
-  const templateName = req.params.template || "example";
-  const dataId = req.params.dataid || 0;
+  const templateName = req.params.template;
+  const dataId = req.params.dataid;
 
   const mjmlContent = fs.readFileSync(
-    "src/stuff/" + templateName + "/template.mjml",
+    "src/stuff/" + templateName + `/${templateName}.mjml`,
     "utf8"
   );
 
@@ -34,7 +34,7 @@ app.get("/:template?/:dataid?", function(req, res) {
   }
 
   fs.writeFileSync(
-    "src/stuff/" + templateName + "/template.twig",
+    "src/stuff/" + templateName + `/${templateName}.twig`,
     mjmlOutput.html
   );
 
@@ -44,7 +44,7 @@ app.get("/:template?/:dataid?", function(req, res) {
 
   const finalHtml = template.render(templateData);
 
-  fs.writeFileSync("src/stuff/" + templateName + "/template.html", finalHtml);
+  fs.writeFileSync("src/stuff/" + templateName + `/${templateName}.html`, finalHtml);
 
   res.send(finalHtml);
 });

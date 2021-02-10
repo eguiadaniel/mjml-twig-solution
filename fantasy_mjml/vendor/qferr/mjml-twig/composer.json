@@ -1,0 +1,25 @@
+{
+    "name": "qferr/mjml-twig",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Quentin",
+            "email": "qferrer@outook.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/qferr/mjml-php"
+        }
+    ],
+    "require": {
+        "twig/twig": "~2.0",
+        "qferr/mjml-php": "~1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Qferrer\\" : "src/"
+        }
+    }
+}

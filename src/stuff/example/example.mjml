@@ -1,0 +1,17 @@
+<mjml>
+    <mj-body>
+      <mj-include path="../common/header.mjml" />
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            {{message}}
+          </mj-text>
+          <mj-raw>{% for key, value in arguments %}</mj-raw>
+            <mj-text>
+              {{key}}: {{value}}
+            </mj-text>
+          <mj-raw>{% endfor %}</mj-raw>
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
